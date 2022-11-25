@@ -57,10 +57,38 @@
   dependencies:
     "@iconify/types" "*"
 
+"@iconify-json/logos@^1.1.18":
+  version "1.1.18"
+  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.1.18.tgz#43d4388790ace4272de1d5389bdfa4aed59f33d7"
+  integrity sha512-Ra8BV3fJhE/5omYOY2UlDhgggyxxzMTppGH3n9EfFYh9Rpx4+HtE6zp7s+i3glYOqs2Me5HNcDEOkU63kcHqvg==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/mdi@^1.1.34":
+  version "1.1.34"
+  resolved "https://registry.yarnpkg.com/@iconify-json/mdi/-/mdi-1.1.34.tgz#fe2541448975e39cadcb4f4de07c42bbd4650422"
+  integrity sha512-Jle/BrVmaKMMPVitsO3lbJ8VpXUVCAhfMFAMo0VoxLDX8ZiKiQyVDHXPug9wGaXYb9mrFZE4UWVK63Cjx8L3rQ==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/ph@^1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@iconify-json/ph/-/ph-1.1.2.tgz#8827e1ef5ce814941faa992453a955103788cb54"
   integrity sha512-NuTdtt/UmuxIHS4hfdyv3BP5JiWikNkr81hFHXDScXlH0GUMdRSY/B5T9vDvbXDY/esMLFnIAXoFVDLsGinhpw==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/twemoji@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@iconify-json/twemoji/-/twemoji-1.1.5.tgz#c657cafc8f17b3921d803758113a513990014061"
+  integrity sha512-1sTyrLUrMF7QhXS8a9XOd2ySgxgESQTRvhtN471QFdqIaXMi7oWB5UUFh0z984s/al4Iclet+O8BZfuhM9t7lg==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/uim@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.1.2.tgz#027ffa2cee1f4581d83f5bfe05bdfb56b2ef597d"
+  integrity sha512-y30D/pUfqyIdKxIR+xOthDiQPSTRIM9cOy8PIOmeuTgh4Yc8gTwL8kWuoDenVxPhk0fXsRw16bn441PK6iuDTQ==
   dependencies:
     "@iconify/types" "*"
 
@@ -2274,6 +2302,18 @@ plantuml-encoder@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/plantuml-encoder/-/plantuml-encoder-1.4.0.tgz#7899302cf785de956bf1a167e15420feee5975f7"
   integrity sha512-sxMwpDw/ySY1WB2CE3+IdMuEcWibJ72DDOsXLkSmEaSzwEUaYBT6DWgOfBiHGCux4q433X6+OEFWjlVqp7gL6g==
+
+playwright-chromium@^1.25.2:
+  version "1.25.2"
+  resolved "https://registry.yarnpkg.com/playwright-chromium/-/playwright-chromium-1.25.2.tgz#46b61c0cfa01e3015d3ef3c4a78a9e844e480a6c"
+  integrity sha512-FqksO/sLuppuwz4rbLMhBx3AadBzsYn2xG6jAewjNchwqzMYeGP1CyL2AQSYcT7ILyF5pQj3nwKqal13pbkEcA==
+  dependencies:
+    playwright-core "1.25.2"
+
+playwright-core@1.25.2:
+  version "1.25.2"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.25.2.tgz#ea4baa398a4d45fcdfe48799482b599e3d0f033f"
+  integrity sha512-0yTbUE9lIddkEpLHL3u8PoCL+pWiZtj5A/j3U7YoNjcmKKDGBnCrgHJMzwd2J5vy6l28q4ki3JIuz7McLHhl1A==
 
 popmotion@^11.0.5:
   version "11.0.5"
