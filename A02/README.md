@@ -24,6 +24,6 @@ openssl genrsa -aes128 -out bob-private.pem 1024
 openssl rsa -in bob-private.pem -pubout > bob-public.pem
 
 
-openssl pkeyutl -encrypt -inkey bob-public.pem -pubin -in alice-to-bob.txt -out alice-to-bob.txt.enc
 
+openssl pkeyutl -encrypt -inkey bob-public.pem -pubin -in alice-to-bob.txt -out alice-to-bob.txt.enc
 openssl pkeyutl -decrypt -inkey bob_private.pem -in top_secret.enc > top_secret.txt
