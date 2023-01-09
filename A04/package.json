@@ -1,0 +1,19 @@
+{
+  "name": "slidev",
+  "private": true,
+  "scripts": {
+    "start": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export --with-clicks --dark"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.5",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.34",
+    "@iconify-json/uim": "^1.1.2",
+    "playwright-chromium": "^1.25.2"
+  }
+}
