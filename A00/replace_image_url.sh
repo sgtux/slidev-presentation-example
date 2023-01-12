@@ -1,1 +1,0 @@
-sed -i 's/#IMAGE_PATH_TO_USE#/..\/images\//g' dist/assets/*.js
