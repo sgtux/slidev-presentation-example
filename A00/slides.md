@@ -94,12 +94,12 @@ src: ./slides/17.security-misconfiguration.md
 ---
 
 ---
-src: ./slides/18.vulnerable-and-outdated-components​.md
+src: ./slides/18.vulnerable-and-outdated-components.md
 layout: center
 ---
 
 ---
-src: ./slides/19.vulnerable-and-outdated-components​.md
+src: ./slides/19.vulnerable-and-outdated-components.md
 ---
 
 ---
@@ -112,21 +112,21 @@ src: ./slides/21.identification-and-authentication-failures.md
 ---
 
 ---
-src: ./slides/22.software-and-data-integrity-failures​.md
+src: ./slides/22.software-and-data-integrity-failures.md
 layout: center
 ---
 
 ---
-src: ./slides/23.software-and-data-integrity-failures​.md
+src: ./slides/23.software-and-data-integrity-failures.md
 ---
 
 ---
-src: ./slides/24.security-logging-and-monitoring-failures​.md
+src: ./slides/24.security-logging-and-monitoring-failures.md
 layout: center
 ---
 
 ---
-src: ./slides/25.security-logging-and-monitoring-failures​.md
+src: ./slides/25.security-logging-and-monitoring-failures.md
 ---
 
 ---

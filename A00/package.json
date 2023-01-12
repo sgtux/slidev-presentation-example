@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "slidev --open",
-    "build": "slidev build",
+    "build": "slidev build --base /owasp-top-10/intro/ && sh replace_image_url.sh",
     "export": "slidev export --with-clicks --dark"
   },
   "dependencies": {
