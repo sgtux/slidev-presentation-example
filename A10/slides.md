@@ -86,6 +86,11 @@ src: ./slides/23.mitigation.md
 ---
 
 ---
+src: ./slides/24.practice.md
+layout: center
+---
+
+---
 src: ./slides/30.references.md
 ---
 

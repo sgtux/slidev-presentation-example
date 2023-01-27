@@ -71,11 +71,15 @@ clicks: 2
 ---
 
 ---
-src: ./slides/20.mitigation.md
+src: ./slides/16.hash.md
 ---
 
 ---
-src: ./slides/21.mitigation.md
+src: ./slides/17.authentication.md
+---
+
+---
+src: ./slides/18.session.md
 ---
 
 ---

@@ -14,7 +14,9 @@ const props = defineProps({
   }
 })
 
-const IMAGE_PATH = 'http://localhost:8000/'
+const IMAGE_PATH_TO_USE = '#IMAGE_PATH_TO_USE#'
+
+const IMAGE_PATH = IMAGE_PATH_TO_USE.includes('IMAGE_PATH_TO_USE') ? 'http://localhost:8000/' : IMAGE_PATH_TO_USE
 
 </script>
 
