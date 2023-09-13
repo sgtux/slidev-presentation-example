@@ -23,4 +23,4 @@ done
 
 sed -i 's/#IMAGE_PATH_TO_USE#/..\/images\//g' build/*/assets/*.js
 cp -R images build
-cp index.html build
+cp -R ./assets/* build
