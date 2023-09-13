@@ -9,6 +9,7 @@ for i in "${list[@]}";
 do
     cd $i
     echo "Building $i..."
+    yarn
     yarn build --base /$BASE_SITE_PATH/$i/ > /dev/null
 
     if [ $? != 0 ]; then
